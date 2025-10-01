@@ -101,10 +101,9 @@ PREDICCIÓN:
   PRED(S → A uno B C) = {'uno', 'cuatro', 'cinco', 'seis', 'tres'}
   PRED(S → S dos) = {'uno', 'dos', 'cuatro', 'cinco', 'seis'}
   PRED(A → B C D) = {'cuatro', 'cinco', 'seis', 'uno', 'tres'}
-  ...
 
+...
 
+```
 
-
-
-<img width="608" height="730" alt="imagen" src="https://github.com/user-attachments/assets/0f905191-1fe5-4327-8e08-e5b6ebc4acb9" />
+<img width="608" height="730" alt="imagen" src="https://github.com/user-attachments/assets/53e4ae39-dd04-4aef-98f8-ef69d76a0ba1" />
