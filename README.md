@@ -80,31 +80,5 @@ python3 main.py
 
 ## Salida Esperada
 
-```
-GRAMÁTICA
-
-PRIMEROS:
-  FIRST(S) = {'uno', 'dos', 'cuatro', 'cinco', 'seis', 'ε'}
-  FIRST(A) = {'cuatro', 'cinco', 'seis', 'tres', 'ε'}
-  FIRST(B) = {'cuatro', 'seis', 'ε'}
-  FIRST(C) = {'cinco', 'ε'}
-  FIRST(D) = {'seis', 'ε'}
-
-SIGUIENTES:
-  FOLLOW(S) = {'$', 'dos'}
-  FOLLOW(A) = {'uno', 'cuatro', 'cinco', 'seis'}
-  FOLLOW(B) = {'cuatro', 'cinco', 'seis', 'tres'}
-  FOLLOW(C) = {'uno', 'cuatro', 'cinco', 'seis', 'tres', '$', 'dos'}
-  FOLLOW(D) = {'cuatro', 'cinco', 'seis', 'tres', 'uno', '$', 'dos'}
-
-PREDICCIÓN:
-  PRED(S → A uno B C) = {'uno', 'cuatro', 'cinco', 'seis', 'tres'}
-  PRED(S → S dos) = {'uno', 'dos', 'cuatro', 'cinco', 'seis'}
-  PRED(A → B C D) = {'cuatro', 'cinco', 'seis', 'uno', 'tres'}
-
-...
-
-```
-
 <img width="601" height="876" alt="imagen" src="https://github.com/user-attachments/assets/6e419782-e279-4334-adcc-99012db82b7e" />
 
