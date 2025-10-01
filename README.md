@@ -106,4 +106,5 @@ PREDICCIÓN:
 
 ```
 
-<img width="608" height="730" alt="imagen" src="https://github.com/user-attachments/assets/53e4ae39-dd04-4aef-98f8-ef69d76a0ba1" />
+<img width="601" height="876" alt="imagen" src="https://github.com/user-attachments/assets/6e419782-e279-4334-adcc-99012db82b7e" />
+
