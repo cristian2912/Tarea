@@ -1,5 +1,7 @@
 # Analizador de Gramáticas - Conjuntos PRIMEROS, SIGUIENTES y PREDICCIÓN
 
+# CRISTIAN BELLO Y SAMUEL CHAVES
+
 ## Descripción
 
 Este proyecto implementa un analizador sintáctico que calcula los conjuntos PRIMEROS, SIGUIENTES y PREDICCIÓN para gramáticas. Estas estructuras son fundamentales en la construcción de compiladores y analizadores sintácticos descendentes predictivos.
